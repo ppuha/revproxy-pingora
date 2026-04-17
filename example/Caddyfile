@@ -1,0 +1,3 @@
+:6002 {
+    respond "uri is: {http.request.uri}"
+}
